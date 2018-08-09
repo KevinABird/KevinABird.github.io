@@ -2,15 +2,15 @@
 layout: page
 title: "Research"
 description: ""
-header-img: "img/Banner4.jpg"
+header-img: "img/IMG_8942 copy.jpg"
 ---
 
 ### Subgenome Dominance
 
 <div class="left_figure"><figure>
-        <img src="/img/Fig2.png" alt="Subgenome Dominance" style="float: right" width="300" hspace="25" vspace="25" />
+        <img src="/img/Fig2.png" alt="Subgenome Dominance" style="float: right" width="400" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">Subgenome dominance figure from Bird et al. 2018 New Phytologist </font>
+                <font size="2">Cartoon of Subgenome dominance, Bird et al. 2018 New Phytologist </font>
         </figcaption>
 </figure></div>
 
@@ -21,7 +21,7 @@ I study subgenome dominance using synthetic polyploids to investigate the early 
 ### Polyploid adaptability and Plasticity
 
 <div class="right_figure"><figure>
-	<img src="/img/Polyploid2.png" alt="BNapus" style="float: left" width="250" hspace="25" vspace="25" />
+	<img src="/img/polyploid2.png" alt="BNapus" style="float: left" width="400" hspace="25" vspace="25" />
 	<figcaption>
 		<font size="2"><i>Synthetic Brassica napus</i></font>
 	</figcaption>
@@ -35,7 +35,7 @@ ___
 
 ### Convergent Evolution
 <div class="left_figure"><figure>
-        <img src="/img/Convergence.png" alt="Convergence" style="float: right" width="300" hspace="25" vspace="25" />
+        <img src="/img/Convergence.png" alt="Convergence" style="float: right" width="400" hspace="25" vspace="25" />
         <figcaption>
                 <font size="2">Model of different causes of convergent evolution from Washburn et al. 2016</font>
         </figcaption>
