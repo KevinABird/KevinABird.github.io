@@ -8,9 +8,9 @@ header-img: "img/Banner4.jpg"
 ### Subgenome Dominance
 
 <div class="left_figure"><figure>
-        <img src="/img/Biased_fractionation.png" alt="Biased fractionation" style="float: right" width="300" hspace="25" vspace="25" />
+        <img src="/img/Fig2.png" alt="Subgenome Dominance" style="float: right" width="300" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">Example of biased fraction from Woodhouse et al. 2014 PNAS </font>
+                <font size="2">Subgenome dominance figure from Bird et al. 2018 New Phytologist </font>
         </figcaption>
 </figure></div>
 
