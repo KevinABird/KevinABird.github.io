@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Research"
-description: "This is what I do"
-header-img: "img/Banner4.jpg"
+description: ""
+header-img: "/img/Banner4.jpg"
 ---
 
 ### Subgenome Dominance
