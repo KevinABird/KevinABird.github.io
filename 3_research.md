@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 description: ""
-header-img: "/img/Banner4.jpg"
+header-img: "img/Banner4.jpg"
 ---
 
 ### Subgenome Dominance
