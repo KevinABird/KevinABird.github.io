@@ -21,7 +21,7 @@ I study subgenome dominance using synthetic polyploids to investigate the early 
 ### Polyploid adaptability and Plasticity
 
 <div class="right_figure"><figure>
-	<img src="/img/Polploid2.png" alt="BNapus" style="float: left" width="250" hspace="25" vspace="25" />
+	<img src="/img/Polyploid2.png" alt="BNapus" style="float: left" width="250" hspace="25" vspace="25" />
 	<figcaption>
 		<font size="2"><i>Synthetic Brassica napus</i></font>
 	</figcaption>
