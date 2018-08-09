@@ -1,0 +1,19 @@
+# Site settings
+title: Kevin Bird
+header-img: img/background8.jpg
+email: birdkevi@msu.edu
+description: "Website Kevin Bird"
+baseurl: ""
+url: "http://kevinabird.github.io"
+twitter_username: itsbirdemic
+github_username:  kevinabird
+
+# Google Analytics
+#google_tracking_id: UA-81468422-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate, jekyll-feed]
