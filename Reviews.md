@@ -32,7 +32,7 @@ This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.
 
 ### June 29
 
-[McKain et al.](https://www.biorxiv.org/content/early/2018/06/20/352351)  Ancestry of the two subgenomes of maize https://www.biorxiv.org/content/early/2018/06/20/352351 
+[McKain et al.](https://www.biorxiv.org/content/early/2018/06/20/352351)  Ancestry of the two subgenomes of maize 
 
 ### June 15
 
