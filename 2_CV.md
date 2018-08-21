@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-header-img: "img/DSC_004Copy.jpg"
+header-img: "img/DSC_0004 copy.jpg"
 ---
 
 My full CV can be found here <a href="/CV/Bird_CV_Jun_2018" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
