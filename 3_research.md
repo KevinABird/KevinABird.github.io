@@ -29,7 +29,6 @@ I study subgenome dominance using synthetic polyploids to investigate the early 
 
 Although polyploid events usually lead to evolutionary dead ends, the impact of genome duplication on organisms is immense. Polyploidy has preceded key evolutionary novelties like the vertebrate and flowering plants, and all major crop plants contain at least one polyploid event, with many species having experience multiple rounds of polyploidy. Polyploidy might also be related to short term evolutionary advantages due to increased adaptibility. I'm interested in understanding the ways that polyploidy can lead to novel traits and increased fitness in both short and long evolutionary time.
 
-Relevant papers: [Kent, Uzunovic, and Wright 2017 _Phil Trans_](https://doi.org/10.1098/rstb.2016.0458)
 
 ___
 
