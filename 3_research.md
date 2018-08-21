@@ -14,7 +14,7 @@ header-img: "img/Banner4.JPG"
         </figcaption>
 </figure></div>
 
-When an organism doubles its genome it experiences a 'genomic shock' as it quickly tries to get back to a happy, stable genomic state. Ultimately this process leads to the polyploid organism 'diploidizing' and returning to what appears to be a diploid state. In reality this 'diploid' state can have vastly different genomic architecture due to fractionation (gene loss) of the different subgenomes. Instead of having subgenomes fractionated at similar rates, one subgenome tends to have more genes lost than the other, a phenomenon called subgenome dominance.
+When an organism doubles its genome it experiences a 'genomic shock' as it quickly tries to get back to a happy, stable genomic state. Ultimately this process leads to the polyploid organism 'diploidizing' and returning to what appears to be a diploid state. In reality this 'diploid' state can have vastly different genomic architecture due to fractionation (gene loss) of the different subgenomes. In some species, instead of having subgenomes fractionated at similar rates, one subgenome tends to have more genes lost than the other, a phenomenon called subgenome dominance.
 
 I study subgenome dominance using synthetic polyploids to investigate the early stages of subgenome dominance where duplicate genes are still present, but one subgenome has higher gene expression (subgenome expression dominance) and/or higher methylation levels to understand how early expression level dominance relates to biased gene loss and whether the process of subgenome dominance is a deterministic process or contingent on the environment in which polyploidization and diploidization occurs.
 
@@ -27,7 +27,7 @@ I study subgenome dominance using synthetic polyploids to investigate the early 
 	</figcaption>
 </figure></div>
 
-Although polyploid events usually lead to evolutionary dead ends, the impact of genome duplication on organisms is immense. Polyploidy has preceded key evolutionary novelties like the vertebrate and flowering plants, and all major crop plants contain at least one polyploid event, with many species having experience multiple rounds of polyploidy. Polyploidy might also be related to short term evolutionary advantages due to increased adaptibility. I'm interested in understanding the ways that polyploidy can lead to novel traits and increased fitness in both short and long evolutionary time.
+Although polyploid events usually lead to evolutionary dead ends, the impact of genome duplication on organisms is immense. Polyploidy has preceded key evolutionary novelties like the vertebra and flowering plants, and all major crop plants contain at least one polyploid event, with many species having experienced multiple rounds of polyploidy. Polyploidy might also be related to short term evolutionary advantages due to increased adaptibility. I'm interested in understanding the ways that polyploidy can lead to novel traits and increased fitness in both short and long evolutionary time.
 
 
 ___
