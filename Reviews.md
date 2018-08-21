@@ -5,9 +5,9 @@ description: "A genomics/systems biology journal club"
 header-img: "img/IMG_8870.JPG"
 ---
 
-The peer rebrewers meet every other Friday at 5PM at  Beggar's Banquet (location subject to change) to provide an enjoyable, low-pressure setting to discuss significant or recent papers in genomics, systems biology, evolutionary biology, and related fields. No one presents or defends the paper and everyone is assumed to have at least skimmed it to jump right into a casual discussion. Everyone is welcome, attendence every meeting is not mandatory, and anyone can email me a paper suggesstion 
+The peer rebrewers meet every other Friday at 5PM at  Beggar's Banquet (location subject to change) to provide an enjoyable, low-pressure setting to discuss significant or recent papers in genomics, systems biology, evolutionary biology, and related fields. No one presents or defends the paper and everyone is assumed to have at least skimmed it to jump right into a casual discussion. Everyone is welcome, attendence every meeting is not mandatory, and anyone can submit a paper suggesstion 
 
-This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.A.B.](http://www.rilab.org/rehab.html) Anyone who wants to be added to the email list can email at birdkevi(at)msu.edu me about being added
+This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.A.B.](http://www.rilab.org/rehab.html) Anyone who wants to be added to the email list or has paper suggestions can email me at birdkevi(at)msu.edu
 
 ## August 2018
 
