@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-header-img: "img/Banner1.jpg"
+header-img: "img/Banner1-1.jpg"
 ---
 
 Bird, K. A., Turner, S. D., Beissinger, T. M., & Angelovici, R. (2018). [Subset-based genomic prediction provides insights into the genetic architecture of free amino acid levels in dry Arabidopsis thaliana seeds](https://www.biorxiv.org/content/early/2018/02/26/272047.abstract). bioRxiv, 272047.
