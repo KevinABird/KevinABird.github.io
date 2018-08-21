@@ -12,6 +12,7 @@ This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.
 ##August 2018
 
 ###August 24th
+
 [Van Deynze et al.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006352) Nitrogen fixation in a landrace of maize is supported by a mucilage-associated diazotrophic microbiota
 
 
@@ -25,6 +26,7 @@ This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.
 ##July2018
 
 \*\*No meetings, so many conferences!!!\*\*
+
 ##June 2018
 
 ###June 29
@@ -107,31 +109,39 @@ This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.
 
 
 ##December 2017
+
 ###Dec. 8
+
 [Lin et al.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS
 
 ​
 
 
 ##November 2017
+
 ###Nov. 17
+
 [Castel et al.](https://www.biorxiv.org/content/early/2018/01/08/190397) Modified penetrance of coding variants by cis-regulatory variation shapes human traits
 
 
 
 
 ###Nov. 3
+
 [Salojärvi et al.](https://www.nature.com/articles/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch
 
 
 
 
 ##October 2017
+
 ###Oct. 20
+
 [Mei et al.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1002) Adaptation in plant genomes: bigger is different
 
 
 
 
 ###Oct. 6
+
 [Greenham et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628015/) Temporal network analysis identifies early physiological and transcriptomic indicators of mild drought in Brassica rapa
