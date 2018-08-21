@@ -1,64 +1,137 @@
 ---
 layout: page
-title: "(Re)views"
-description: "A reviews-based journal club"
-header-img: "img/tdot.jpg"
+title: "Peer Rebrew"
+description: "A genomics/systems biology journal club"
+header-img: "img/IMG_8870.JPG"
 ---
 
-(Re)views, based on the format of [R.E.H.A.B.](http://www.rilab.org/rehab.html), meets Tuesdays at 4 pm at the University of Toronto GSU pub to discuss EEB-related review papers and share "beverages". 
-Intended as an informal journal club for all members of EEB to read and learn about topics outside of their typical scope. 
-Papers are submitted each week to tyler (dot) kent (at) mail (dot) utoronto (dot) ca and are posted below.
+The peer rebrewers meet every other Friday at 5PM at  Beggar's Banquet (location subject to change) to provide an enjoyable, low-pressure setting to discuss significant or recent papers in genomics, systems biology, evolutionary biology, and related fields. No one presents or defends the paper and everyone is assumed to have at least skimmed it to jump right into a casual discussion. Everyone is welcome, attendence every meeting is not mandatory, and anyone can email me a paper suggesstion 
 
-# (Re)Views is back for 2018!
-I'll be running this journal club again this summer, on alternating weeks with the student book club. See below for past papers, and send paper suggestions to my email (above).
+This reading group structure is blatantly copied from Jeff Ross-Ibarra's [R.E.H.A.B.](http://www.rilab.org/rehab.html) Anyone who wants to be added to the email list can email at birdkevi(at)msu.edu me about being added
 
-## May 2018
+##August 2018
 
-#### May 28
-[Zhang J.](https://doi.org/10.1093/molbev/msy065) Neutral Theory and Phenotypic Evolution
+###August 24th
+[Van Deynze et al.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006352) Nitrogen fixation in a landrace of maize is supported by a mucilage-associated diazotrophic microbiota
 
-## September 2016
 
-#### September 6
-[Bertrand R. Jordan](http://www.genetics.org/content/genetics/203/4/1505.full.pdf) The Hiroshima/Nagasaki Survivor Studies: Discrepancies Between Results and General Perception
+###August 10th
 
-## August 2016
+[Ford et al.](https://www.biorxiv.org/content/early/2017/08/17/170506)  Frequent lack of repressive capacity of promoter DNA methylation identified through genome-wide epigenomic manipulation
 
-#### August 30
-[Levis and Pfennig](https://doi.org/10.1016/j.tree.2016.03.012) Evaluating ‘Plasticity-First’ Evolution in Nature: Key Criteria and Empirical Approaches
+&
 
-#### August 23
-[Alberdi et al.](http://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(16)30077-5) Do Vertebrate Gut Metagenomes Confer Rapid Ecological Adaptation?
+[Korthauer and Irizarry.](https://www.biorxiv.org/content/early/2018/08/01/381145)  Genome-wide repressive capacity of promoter DNA methylation is revealed through epigenomic manipulation
+##July2018
 
-#### August 9
-[Michael Lynch](http://www.genetics.org/content/202/3/869) Mutation and Human Exceptionalism: Our Future Genetic Load
+\*\*No meetings, so many conferences!!!\*\*
+##June 2018
 
-#### August 2
-[Quentin Cronk](https://paperpile.com/view/43ae7f1e-ae0c-052a-8385-0ee25cc58735) Plant extinctions take time
+###June 29
 
-## July 2016
+[McKain et al.](https://www.biorxiv.org/content/early/2018/06/20/352351)  Ancestry of the two subgenomes of maize https://www.biorxiv.org/content/early/2018/06/20/352351 
 
-#### July 26
-[Ellegren and Galtier](https://paperpile.com/shared/rcSrJY) The Determinants of Genetic Diversity
+​###June 15
 
-#### July 19
-[Worm and Paine](https://paperpile.com/shared/dLMJWz) Humans as a Hyperkeystone Species
+[Winter et al.](https://www.biorxiv.org/content/early/2018/06/04/339010) Repeat elements organize 3D genome structure and mediate transcription in the filamentous fungus Epichloë festucae
 
-#### July 5
-[Day et al.](https://paperpile.com/shared/J8yaVX) Is selection relevant in the evolutionary emergence of drug resistance?
+​
 
-## June 2016
+###June 1
 
-#### June 20
-[Massimo Pigilucci](http://www.nature.com/nrg/journal/v9/n1/pdf/nrg2278.pdf) Is evolvability evolvable?
+[Koffer et al.](https://genome.cshlp.org/content/early/2018/04/30/gr.228627.117.abstract)  Molecular dissection of a natural transposable element invasion 
 
-#### June 14
-[John H. Gillespie](https://paperpile.com/shared/RDgpbu) Is the population size of a species relevant to its evolution?
 
-#### June 7
-[Farkas et al.](http://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(15)00004-X) How maladaptation can structure biodiversity: eco-evolutionary island biogeography.
 
-## May 2016
+##May 2018
 
-#### May 31
-[H. Allen Orr](https://paperpile.com/shared/TAxSJQ) Fitness and its role in evolutionary genetics.
+###May 20
+
+\*\*Cancelled: Out of town\*\*
+
+###May 4
+
+[Sotelo-Silveira et al.](https://www.sciencedirect.com/science/article/pii/S1360138518300827) Entering the Next Dimension: Plant Genomes in 3D
+
+​
+
+##April 2018
+
+###Apr. 20
+
+​[Kerwin et al.](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.14646) ​​​Epistasis × environment interactions among Arabidopsis thaliana glucosinolate genes impact complex traits and fitness in the field
+
+​
+
+###Apr. 6
+
+[Kremling et al.](https://www.nature.com/articles/nature25966) Dysregulation of expression correlates with rare-allele burden and fitness loss in maize 
+
+​
+
+##March 2018
+
+###Mar. 23
+
+[Lippert et al.](http://www.pnas.org/content/114/38/10166.short)  Identification of individuals by trait prediction using whole-genome sequencing data 
+
+&
+
+[Erlich.](https://pdfs.semanticscholar.org/9b63/cfbe0a5f53f5af8c6e2d1bf1114661d699b7.pdf) Major flaws in “Identification of individuals by trait prediction using whole-genome”
+
+​
+
+###Mar. 2
+
+[Zhao et al.](http://www.plantphysiol.org/content/early/2018/02/20/pp.17.01467) Proliferation of regulatory DNA elements derived from transposable elements in the maize genome
+
+​
+
+​
+
+##February 2018
+
+​
+
+###Feb. 9
+
+[Boyle et al.](https://www.plengegen.com/wp-content/uploads/Boyle_Cell_2017_omnigenic.pdf) An expanded view of complex traits: from polygenic to omnigenic
+
+​
+
+##January 2018
+
+###Jan. 16
+
+[Dunn et al.](http://www.pnas.org/content/early/2018/01/03/1707515115.short) Pairwise comparisons across species are problematic when analyzing functional genomic data
+
+
+##December 2017
+###Dec. 8
+[Lin et al.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1328-6) Substantial contribution of genetic variation in the expression of transcription factors to phenotypic variation revealed by eRD-GWAS
+
+​
+
+
+##November 2017
+###Nov. 17
+[Castel et al.](https://www.biorxiv.org/content/early/2018/01/08/190397) Modified penetrance of coding variants by cis-regulatory variation shapes human traits
+
+
+
+
+###Nov. 3
+[Salojärvi et al.](https://www.nature.com/articles/ng.3862) Genome sequencing and population genomic analyses provide insights into the adaptive landscape of silver birch
+
+
+
+
+##October 2017
+###Oct. 20
+[Mei et al.](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1002) Adaptation in plant genomes: bigger is different
+
+
+
+
+###Oct. 6
+[Greenham et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628015/) Temporal network analysis identifies early physiological and transcriptomic indicators of mild drought in Brassica rapa
