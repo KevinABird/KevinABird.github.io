@@ -11,7 +11,7 @@ ___
 ### Education  
 
 Ph.D., Horticulture and Ecology, Evolutionary Biology and Behavior, Michigan State University (expected 2022)  
-Advisors: [Patrick Edger](polyploidy.msu.edu) & [Robert VanBuren](https://www.vanburenlab.org/)  
+Advisors: [Patrick Edger](https://www.polyploidy.msu.edu) & [Robert VanBuren](https://www.vanburenlab.org/)  
 
 B.S., Biological Sciences (*Cum laude* with University of honors), University of Missouri    (2016)  
 
