@@ -4,6 +4,11 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
+Edger PP, Poorten TJ, VanBuren R, Hardigan MA, Colle M,  McKain MR, Smith RD,  Teresi SJ, Nelson ADL, Wai CM, Alger EI, Bird KA, Yocca AE, Pumplin N, Ou S, Ben-Zvi G, Brodt A, Baruch K, Swale T, Shiue L, Acharya CB,  Cole GS, Mower JP, Childs KL, Jiang N, Lyons E, Freeling M, Puzey JR & Knapp SJ.  (2019) [Origin and evolution of the octoploid strawberry genome](https://www.nature.com/articles/s41588-019-0356-4). Nature Genetics, volume 51, 541–547 
+
+
+Colle M, Leisner CP, Wai CM, Ou S, Bird KA, Wang J, Wisecaver JH, Yocca AE, Alger EI, Tang H, Xiong Z, Callow P, Ben-Zvi G, Brodt A, Baruch K, Swale T, Shiue L,  Song G,  Childs KL, Schilmiller A, Vorsa N,Buell CR, VanBuren R, Jiang N, Edger PP. (2019) [Haplotype-phased genome and evolution of phytonutrient pathways of tetraploid blueberry](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giz012/5304886). GigaScience, giz012.
+
 Bird, K. A., Turner, S. D., Beissinger, T. M., & Angelovici, R. (2018). [Subset-based genomic prediction provides insights into the genetic architecture of free amino acid levels in dry Arabidopsis thaliana seeds](https://www.biorxiv.org/content/early/2018/02/26/272047.abstract). bioRxiv, 272047.
 
 Bird, K. A., VanBuren, R., Puzey, J. R., & Edger, P. P. (2018). [The causes and consequences of subgenome dominance in hybrids and recent polyploids](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.15256). New Phytologist.
