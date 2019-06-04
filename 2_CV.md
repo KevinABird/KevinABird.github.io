@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_Feb_2019.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_June_2019.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
@@ -33,7 +33,13 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 ### Oral Presentations
 
-__Kevin Bird__,Robert Van Buren, Joshua Puzey, Patreick Edger (2018)
+__Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (Accepted) (2019)
+Replaying the evolutionary tape with synthetic polyploids to investigate subgenome dominance. 5th Conference on Plant Genome Evolution, Elsevier, Sitges Spain 
+
+__Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (2019)
+Replaying the evolutionary tape in synthetic Brassica napus polyploids: How deterministic is subgenome dominance?  Symposium on Evolution and Core Processes of Gene Expression, American Society for Biochemistry and Molecular Biology, East Lansing, MI
+
+__Kevin Bird__,Robert Van Buren, Joshua Puzey, Patrick Edger (2018)
 The Causes and Consequences of Subgenome Dominance in Hybrids and Recent Polyploids. Botany 2018, Rochester, MN
 
 __Kevin Bird__, Hong An, Elodie Gazave, Michael Gore, J. Chris Pires, Larry Robertson and Joanne Labate (2016)
