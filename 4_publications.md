@@ -4,6 +4,9 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
+Barbey C, Lee S, Verma S, **Bird KA**, Yocca AE, Edger PP, Knapp SJ, Whitaker VM and Folta KM.
+G3: GENES, GENOMES, GENETICS. (2019) [Disease Resistance Genetics and Genomics in Octoploid Strawberry](https://www.g3journal.org/content/early/2019/08/16/g3.119.400597). Early online https://doi.org/10.1534/g3.119.400597
+
 Edger PP, Poorten TJ, VanBuren R, Hardigan MA, Colle M,  McKain MR, Smith RD,  Teresi SJ, Nelson ADL, Wai CM, Alger EI, **Bird KA**, Yocca AE, Pumplin N, Ou S, Ben-Zvi G, Brodt A, Baruch K, Swale T, Shiue L, Acharya CB,  Cole GS, Mower JP, Childs KL, Jiang N, Lyons E, Freeling M, Puzey JR & Knapp SJ.  (2019) [Origin and evolution of the octoploid strawberry genome](https://www.nature.com/articles/s41588-019-0356-4). Nature Genetics, volume 51, 541–547 
 
 
