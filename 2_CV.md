@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_June_2019.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_Oct_2019.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
@@ -33,7 +33,7 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 ### Oral Presentations
 
-__Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (Accepted) (2019)
+__Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (2019)
 Replaying the evolutionary tape with synthetic polyploids to investigate subgenome dominance. 5th Conference on Plant Genome Evolution, Elsevier, Sitges Spain 
 
 __Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (2019)
