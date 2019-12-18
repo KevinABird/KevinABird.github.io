@@ -3,7 +3,6 @@ layout: post
 title:  "The Hereditarian Hypothesis and Scientific Racism"
 ---
 
-#The Genetic Hypothesis and Scientific Racism
 
 It is difficult to understand how this debate about the role of genetics in the Black-white IQ score gap has persisted in the mainstream and academic discourse given the low quality of evidence in favor of substantial genetic cause and the methodological and conceptual mistakes made by the main proponents of the genetic hypothesis. However, the persistence of the debate is more understandable if we stop thinking about the genetic hypothesis as a good faith scientific venture, and rather as a concerted effort to inject and distribute fringe ideas into the mainstream. This may seem to be a hefty accusation, but I intend to defend it. 
 
