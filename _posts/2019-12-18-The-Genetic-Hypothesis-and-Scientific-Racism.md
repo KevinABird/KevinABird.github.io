@@ -23,9 +23,16 @@ Fortunately scientists’ contributions can help clarify misconceptions, correct
 
 ASHG Denounces Attempts to Link Genetics and Racial Supremacy. (2018). American Journal of Human Genetics, 103(5), 636.
 
+Coop, G. (2019). Reading tea leaves? Polygenic scores and differences in traits among groups. arXiv preprint arXiv:1909.00892.
+
 Fuentes, A., Ackermann, R. R., Athreya, S., Bolnick, D., Lasisi, T., Lee, S.-H., … Nelson, R. (2019). AAPA Statement on Race and Racism. American Journal of Physical Anthropology, 169(3), 400–402.
 
+Freese, J., Domingue, B., Trejo, S., Sicinski, K., & Herd, P. (2019). Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study.
+
+
 Martin, A. R., Gignoux, C. R., Walters, R. K., Wojcik, G. L., Neale, B. M., Gravel, S., ... & Kenny, E. E. (2017). Human demographic history impacts genetic risk prediction across diverse populations. The American Journal of Human Genetics, 100(4), 635-649.
+
+Rosenberg, N. A., Edge, M. D., Pritchard, J. K., & Feldman, M. W. (2018). Interpreting polygenic scores, polygenic adaptation, and human phenotypic differences. Evolution, medicine, and public health, 2019(1), 26-34.
 
 Saini, A. (2019). Superior: The Return of Race Science.
 
