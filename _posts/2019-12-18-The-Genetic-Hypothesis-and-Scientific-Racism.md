@@ -1,8 +1,10 @@
+---
 layout: post
 title:  "The Hereditarian Hypothesis and Scientific Racism"
 ---
 
 #The Genetic Hypothesis and Scientific Racism
+
 It is difficult to understand how this debate about the role of genetics in the Black-white IQ score gap has persisted in the mainstream and academic discourse given the low quality of evidence in favor of substantial genetic cause and the methodological and conceptual mistakes made by the main proponents of the genetic hypothesis. However, the persistence of the debate is more understandable if we stop thinking about the genetic hypothesis as a good faith scientific venture, and rather as a concerted effort to inject and distribute fringe ideas into the mainstream. This may seem to be a hefty accusation, but I intend to defend it. 
 
 Arthur Jensen, J. Phillipe Rushton, Richard Lynn, Emil Kirkegaard, Davide Piffer, and Jonathon Fuerst have all received funding and worked in further capacities with the Pioneer Fund. The Pioneer fund was founded in 1937 by the white supremacist Wickliffe Draper. Since it’s creation, the Pioneer Fund has been directly involved with the dissemination of nazi propaganda films and works calling for the maintenance of racial purity, and funding political opposition to school integration, civil rights policy, and immigration (Saini, 2019; Tucker, 2002). In addition, the organization has funded scientists to produce and disseminate research supporting racial superiority, racial purity, segregation, and restricted immigration (Tucker, 2002). Draper was also known for providing personal gifts to his beneficiaries, often through tax-exempt nonprofit intermediaries and for wanting his “gifts spent in such manner as to check upon their value”; often contingent upon tangible results (Tucker, 2002).
