@@ -33,7 +33,7 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 ### Oral Presentations
 
-__KevinBird__ (2020) The Mismeasure of genes: Debunking scientific racism with evolutionary genomic analysis. MSU Ecology, Evolutionary Biology, and Behavior Program graduate student colloquium, East Lansing, MI
+__KevinBird__ (2020) The mismeasure of genes: debunking scientific racism with evolutionary genomic analysis. MSU Ecology, Evolutionary Biology, and Behavior Program graduate student colloquium, East Lansing, MI
 
 __Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (2019)
 Replaying the evolutionary tape with synthetic polyploids to investigate subgenome dominance. 5th Conference on Plant Genome Evolution, Elsevier, Sitges Spain 
