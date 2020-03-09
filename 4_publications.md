@@ -6,6 +6,7 @@ header-img: "img/Banner1-1.jpg"
 
 
 Hardigan, MA, Feldmann, MJ, Lorant, A, **Bird, KA**, Famula, R, Acharya, C, ... & Knapp, SJ (2020). Genome Synteny Has Been Conserved Among the Octoploid Progenitors of Cultivated Strawberry Over Millions of Years of Evolution. Frontiers in Plant Science, 10, 1789.
+
 **Bird, KA** (2020). The mismeasure of genes: no support for the genetic hypothesis of the Black-white achievement gap using polygenic scores and tests for divergent selection. SocArxiv, doi: 10.31235/osf.io/2qfkt
        
 **Bird KA**, Niederhuth C, Ou S, Gehan M, Pires JC, Xiong Z, VanBuren R, Edger PP (2019) Replaying the evolutionary tape to investigate subgenome dominance in allopolyploid Brassica napus. BioRxiv, 814491; doi:  https://doi.org/10.1101/814491
