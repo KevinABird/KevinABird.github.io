@@ -8,6 +8,7 @@ title:  "Evolutionary Psychology Needs to Earn its Name"
 In principle the application of evolutionary theory to psychological processes and behavior is not controversial; Darwin’s own writings contain speculation about the role of evolution in shaping “mental faculties.” However, the field of evolutionary psychology has been fiercely debated since its creation at the end of the 1980s, with criticisms ranging from methodological to ideological. It is my goal to update some conceptual and methodological criticisms of many branches of evolutionary psychology in light of the last few years of development in the post-genomic age of evolutionary biology and my position as an evolutionary genomicist. They are that 1. Evolutionary Psychology has an impoverished view of evolutionary biology, and 2. Evolutionary Psychology is using insufficient methodology to answer its questions (for criticisms similar to the one presented here see Lloyd & Feldman 2002 and Bolhuis et al. 2011). My hope is by shedding light on these perceived deficiencies that the field can move forward with a more solid foundation.
 
 **Understanding the logic of Evolutionary Psychology**
+
 The core principles of Evolutionary Psychology were laid out by Leda Cosmides and John Tooby most prominently in 1992, they are:
 
 1. The brain is a physical system. It functions as a computer. Its circuits are designed to generate behavior that is appropriate to your environmental circumstances.
