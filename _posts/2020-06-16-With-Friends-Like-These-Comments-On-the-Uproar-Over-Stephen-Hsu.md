@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "With Friends Like These: Comments on the Uproar over Stephen Hsu"
+---
+
 Against a backdrop of protests, uprisings against police brutality, and calls for real reform and racial justice, the Particles for Justice collective began an initiative to #ShutDownStem and #ShutDownAcademia to take a day to focus on issues of racial equity in the academy. https://www.particlesforjustice.org/
 
 A group of faculty and graduate students began discussing what to do to make tangible change. The topic of  Stephen Hsu’s role as Senior Vice President of Research & Innovation came up (note: It was incorrectly thought his title was Vice President of Research & Graduate Studies; his title had recently changed). 
