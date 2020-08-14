@@ -19,7 +19,7 @@ Problems with representational ability of genomes doesn’t just end there. Geno
 
 One can do this guided by a “reference genome” 
 
-![reference-guided](/img/12859_2017_1911_Fig1_HTML.png) 
+![reference-guided](/img/reference_guided.jpg) 
 
 or without a reference, *de novo*. 
 
