@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Commiserations, skepticism and antirealism about genomics and Truth"
+title:  "Commiserations, skepticism, and antirealism about genomics and Truth"
 ---
 
 Occasionally online I will get criticized for past statements I’ve made about my stance on truth in science. This criticism is usually from people who have a very simple view that to do science one must seek out truth in nature. There are, of course, many ways to do science and to be a scientist and it does not require a commitment to a particular picture of a mind-independent reality or to science’s ability to accurately capture a mind-independent reality. My position is that I don’t set my sights on capturing these truths about a mind-independent reality when doing science, I don’t think many other scientists actually do either. In physics the position of “shut up and calculate” is common, famous physicists like Ernst Mach, Werner Heisenberg, and arguably Niels Bohr were anti-realists of some kind. Heisenberg once said
