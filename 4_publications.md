@@ -14,7 +14,7 @@ Turner-Hissong SD, **Bird KA**, Lipka AE, King EG, Beissinger TM, & Angelovici R
 Hardigan, MA, Feldmann, MJ, Lorant, A, **Bird, KA**, Famula, R, Acharya, C, ... & Knapp, SJ (2020). [Genome Synteny Has Been Conserved Among the Octoploid Progenitors of Cultivated Strawberry Over Millions of Years of Evolution](https://www.frontiersin.org/articles/10.3389/fpls.2019.01789/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign...). *Frontiers in Plant Science*, 10, 1789.
 
 Barbey C, Lee S, Verma S, **Bird KA**, Yocca AE, Edger PP, Knapp SJ, Whitaker VM and Folta KM.
-G3: Genes, Genomes, Genetics.* (2019) [Disease Resistance Genetics and Genomics in Octoploid Strawberry](https://www.g3journal.org/content/early/2019/08/16/g3.119.400597). colume 9, 3315-3332 https://doi.org/10.1534/g3.119.400597
+*G3: Genes, Genomes, Genetics.* (2019) [Disease Resistance Genetics and Genomics in Octoploid Strawberry](https://www.g3journal.org/content/early/2019/08/16/g3.119.400597). colume 9, 3315-3332 https://doi.org/10.1534/g3.119.400597
 
 Edger PP, Poorten TJ, VanBuren R, Hardigan MA, Colle M,  McKain MR, Smith RD,  Teresi SJ, Nelson ADL, Wai CM, Alger EI, **Bird KA**, Yocca AE, Pumplin N, Ou S, Ben-Zvi G, Brodt A, Baruch K, Swale T, Shiue L, Acharya CB,  Cole GS, Mower JP, Childs KL, Jiang N, Lyons E, Freeling M, Puzey JR & Knapp SJ.  (2019) [Origin and evolution of the octoploid strawberry genome](https://www.nature.com/articles/s41588-019-0356-4). *Nature Genetics*, volume 51, 541–547 
 
