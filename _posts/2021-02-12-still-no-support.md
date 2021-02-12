@@ -3,7 +3,7 @@ layout: post
 title:  "Still No Support For Hereditarianism"
 ---
 
-It's been a little over a week since my paper challenging hereditarianism was published in the American Journal of Physical Anthropology.<sup>1</sup> Already some hereditarians have attempted a rebuttal. One in particular by John Fuerst<sup>2</sup> warrants a response at least partially because it is a component of a preprint that somehow found its way onto Biorxiv <sup>3</sup>. Fuerst makes a few key claims:
+It's been a little over a week since my paper challenging hereditarianism was published in the American Journal of Physical Anthropology.<sup>1</sup> Already some hereditarians have attempted a rebuttal. One in particular by John Fuerst<sup>2</sup> warrants a response at least partially because it is a component of a preprint that somehow found its way onto Biorxiv.<sup>3</sup> Fuerst makes a few key claims:
 
 1. There is no evidence of stabilizing selection, which would make genetic differences smaller than I predict
 
