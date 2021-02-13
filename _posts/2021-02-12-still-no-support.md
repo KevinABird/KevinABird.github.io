@@ -13,7 +13,7 @@ It's been a little over a week since my paper challenging hereditarianism was pu
 
 4. Because of this, my paper actually agrees with hereditarianism.
 
-I'll address these points below. This
+I'll address these points below.
 
 **Claim 1- No evidence of stabilizing selection**
 
