@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_Dec2020.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_May_2021.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
