@@ -4,7 +4,7 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-**Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere. *American Journal of Botany* Accepted. (Biorxiv https://doi.org/10.1101/2021.03.08.434492)
+**Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere. *American Journal of Botany*. Accepted. (Biorxiv https://doi.org/10.1101/2021.03.08.434492)
 
 Hardigan MA, Lorant A, Pincot DD, Feldmann MJ, Famula RA, Acharya CB, Lee S, Verma S, Whitaker VM, Bassil N, Zurn J, Cole GS, **Bird KA**, Edger PP, & Knapp SJ (2021). [Unraveling the complex hybrid ancestry and domestication history of cultivated strawberry.](https://doi.org/10.1093/molbev/msab024) *Molecular Biology and Evolution*, 38(6), 2285-2305.
 
