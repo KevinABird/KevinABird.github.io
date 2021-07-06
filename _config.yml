@@ -9,7 +9,7 @@ twitter_username: itsbirdemic
 github_username:  kevinabird
 
 # Google Analytics
-#google_tracking_id: UA-81468422-1
+google_tracking_id: UA-201436814-1
 
 # Build settings
 markdown: kramdown
