@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quillette Was Right About Everything (THIS WAS AN APRIL FOOLS JOKE)"
+title:  "Quillette Was Right About Everything (April Fools)"
 ---
 
 # April Fools
