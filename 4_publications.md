@@ -4,7 +4,7 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-Fuentes A, **Bird KA** (2021) Heritability is a poor, if not unhelpful, measure of complex human behavioral processes.
+Fuentes A & **Bird KA** (2021) Heritability is a poor, if not unhelpful, measure of complex human behavioral processes.
 *Behavioral and Brain Sciences* (commentary on Uchiyama et al. 2021 "Cultural Evolution of Genetic Heritability") Accepted 
 
 **Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere. *American Journal of Botany*. Accepted. (Biorxiv https://doi.org/10.1101/2021.03.08.434492)
