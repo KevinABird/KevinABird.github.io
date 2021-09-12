@@ -5,8 +5,7 @@ header-img: "img/Banner1-1.jpg"
 ---
 
 Fuentes A, **Bird KA** (2021) Heritability is a poor, if not unhelpful, measure of complex human behavioral processes.
-*Behavioral and Brain Sciences* (commentary on Uchiyama et al. (2021) "Cultural Evolution of Genetic Heritability") Accepted 
-
+*Behavioral and Brain Sciences* (commentary on Uchiyama et al. 2021 "Cultural Evolution of Genetic Heritability") Accepted 
 
 **Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere. *American Journal of Botany*. Accepted. (Biorxiv https://doi.org/10.1101/2021.03.08.434492)
 
@@ -18,7 +17,7 @@ McAlvay AC, Ragsdale AP, Mabry ME, Qi X, **Bird KA**, Velasco P, An H, Pires JC,
 
 **Bird KA**, Niederhuth C, Ou S, Gehan M, Pires JC, Xiong Z, VanBuren R, Edger PP (2021) [Replaying the evolutionary tape to investigate subgenome dominance in allopolyploid Brassica napus](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17137). *New Phytologist*. 230(1), 354-371.
 
-Tichko P, **Bird KA**, Kohn G (2021). Beyond “Consistent With” Adaptation: Is There a Robust Test For Music Adaptation? *Behavioral and Brain Sciences*. Commentary on Mehr et al. 2019) Accepted
+Tichko P, **Bird KA**, Kohn G (2021). Beyond “Consistent With” Adaptation: Is There a Robust Test For Music Adaptation? *Behavioral and Brain Sciences*. (Commentary on Mehr et al. 2010 "Origins of music in credible signaling") Accepted
 
 Turner-Hissong SD, **Bird KA**, Lipka AE, King EG, Beissinger TM, & Angelovici R. (2020). [Genomic prediction informed by biological processes expands our understanding of the genetic architecture underlying free amino acid traits in dry Arabidopsis seeds](https://www.g3journal.org/content/10/11/4227.abstract). *G3: Genes, Genomes, Genetics*, 10(11), 4227-4239.
 
