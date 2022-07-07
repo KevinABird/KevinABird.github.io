@@ -4,14 +4,15 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_Sep_2021.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_July_2022.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
 ### Education  
 
-Ph.D., Horticulture and Ecology, Evolutionary Biology and Behavior, Michigan State University (expected 2022)  
-Advisors: [Patrick Edger](https://www.polyploidy.msu.edu) & [Robert VanBuren](https://www.vanburenlab.org/)  
+Ph.D., Horticulture and Ecology, Evolutionary, and Behavior, Michigan State University (2022)  
+Advisors: [Patrick Edger](https://www.polyploidy.msu.edu) & [Robert VanBuren](https://www.vanburenlab.org/) 
+Dissertation: Subgenome Dominance and Genome Evolution in Allopolyploids
 
 B.S., Biological Sciences (*Cum laude* with University honors), University of Missouri    (2016)  
 
@@ -19,6 +20,9 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
   
 
 ### Fellowships and Awards
+**National Science Foundation Plant Genome Postdoctoral Research Fellowship**, National Science Foundation, $216,000 (2022-2025)
+
+**Bukovac Outstanding Graduate Student Award**, Michigan State University Department of Horticulture (2022)
 
 **University Distinguished Fellowship**, Michigan State University, $80,000 (2017-2022)
 
@@ -33,6 +37,14 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 ### Oral Presentations
 
+__Kevin Bird__ (2022) Gene dosage constraints affect the transcriptional response to allopolyploidy and homoeologous exchange in resynthesized Brassica napus. Plant Genomes Online 2022
+
+__Kevin Bird__ (2022) Anti-racist genomics: responding to scientific racism in the 21st century. Invited presentation for symposium *Disrupting Genomics: Bringing Critical and Theoretical Approaches into Practice*, American Association of Biological Anthropologists 2022 annual meeting, Denver, CO
+
+__Kevin Bird__ (2022) he Mismeasure of genes: genetics and scientific racism in the 21st. Harvard FXB Center for Health & Human Rights seminar. Harvard University, Cambridge, MA
+
+__Kevin Bird__ (2022) Evolutionary impacts of genomic structural variation. Center for Population Biology seminar series, University of California Davis, Davis CA
+ 
 __Kevin Bird__ (2020) The mismeasure of genes: debunking scientific racism with evolutionary genomic analysis. MSU Ecology, Evolutionary Biology, and Behavior Program graduate student colloquium, East Lansing, MI
 
 __Kevin Bird__, Chad Niederhuth, Zhiyong Xiong, J. Chris Pires, Robert Van Buren, Patrick Edger (2019)
@@ -49,6 +61,9 @@ Association Mapping and Population Genetics of the Vegetable Crop Brassica rapa.
 
 
 ### Poster Presentations
+
+__Kevin Bird__ (2022) Genomes in flux—Genomic rearrangements, subgenome dominance, and gene dosage balance constraints in resynthesized Brassica napus. Biology of Genomes 2022, Cold Spring Harbor Labs, Cold Spring Harbor, NY
+
 __Kevin Bird__, Sarah Turner, Alexander Lipka, Timothy Beissinger, Ruthie Angelovici (2018)
 Subset-based genomic prediction provides insights into the genetic architecture of free amino acid levels in dry Arabidopsis thaliana seeds. Plant Biology 2018, Montreal, Quebec
 
