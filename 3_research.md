@@ -26,7 +26,7 @@ ___
 <div class="right_figure"><figure>
 	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i>Pangenome representation of gene content variation Source: Pacbio/</i></font>
+			<font size="1.5"><i>Pangenome representation of gene content variation Source: Pacbio</i></font>
 		</figcaption>
 </figure></div>
 It's now recognized that a single reference genome is not sufficient to capture all the genomic diversity within a species. A pangenome provides a better picture of structural and gene content variation that a species harbors through the generation of multiple genomes from diverse lines within a species. Pangenomic analyses have revealed that in some species upwards of 50% of all genes are not found in all individuals and many GWAS lead SNPs in *Arabidopsis thaliana* have recently been shown to be reflective of structural variation not captured by the reference genome.
