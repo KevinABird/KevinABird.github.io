@@ -60,7 +60,7 @@ ___
 <div class="right_figure"><figure>
 	<img src="/img/tpc.20.00740-feature.jpg" alt="pangenome" style="float: right" width="400" hspace="25" vspace="25" />
 	<figcaption>
-		<font size="2"><i>Genomic imbalance source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
+		<font size="1.5"><i>Genomic imbalance source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
 	</figcaption>
 </figure></div>
 
@@ -78,7 +78,7 @@ ___
 <div class="left_figure"><figure>
         <img src="/img/" alt="" style="float: right" width="400" hspace="25" vspace="25" />
         <figcaption>
-                <font size="2">Model of different causes of convergent evolution from Washburn et al. 2016</font>
+                <font size="2"></font>
         </figcaption>
 </figure></div>
 
