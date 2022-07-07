@@ -10,7 +10,7 @@ header-img: "img/Banner2-2.jpg"
 
 
 
-I am interested in studying the evolutionary impact of structural variation in plant genomes, with particular focus on gene presence/absence variation and genome duplications. My work is broadly motivated by an interest in understanding the combination of neutral and adaptive features that maintain duplicate genes, the role of whole-genome duplication and gene-content variation in evolutionary novelty, and using genomics to dissect complex traits and understand the evolutionary history of crop plants.
+I am interested in studying the evolutionary impact of structural variation in plant genomes, with particular focus on gene presence/ absence variation and genome duplications. My work is broadly motivated by an interest in understanding the combination of neutral and adaptive features that maintain duplicate genes, the role of whole-genome duplication and gene-content variation in evolutionary novelty, and using genomics to dissect complex traits and understand the evolutionary history of crop plants.
 
 I am currently an NSF Plant Genome Postdoctoral Research Fellow at UC Davis working with [Dan Kliebenstein](https://psfaculty.plantsciences.ucdavis.edu/kliebenstein/) and [Grey Monroe](https://www.monroelab.org/). My project focuses on how gene network topology relates to epistasis. Specifically, I am using natural loss-of-function alleles in *Arabidopsis thaliana* to explore how gene networks may constrain and structure genetic variation to maintain mutational robustness while permitting, and even facilitating, adaptive evolution. Additionally, I am also working on pan-genome projects and genome evolution across the Brassicaceae.
 
