@@ -24,9 +24,9 @@ ___
 
 
 <div class="right_figure"><figure>
-	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="50" />
+	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="75" />
 		<figcaption>
-			<font size="2"><i>Pangenome representation of gene content variation Source: https://www.pacb.com/blog/sequencing-101-looking-beyond-the-single-reference-genome-to-a-pangenome-for-every-species/</i></font>
+			<font size="1.5"><i>Pangenome representation of gene content variation Source: https://www.pacb.com/blog/sequencing-101-looking-beyond-the-single-reference-genome-to-a-pangenome-for-every-species/</i></font>
 		</figcaption>
 </figure></div>
 It's now recognized that a single reference genome is not sufficient to capture all the genomic diversity within a species. A pangenome provides a better picture of structural and gene content variation that a species harbors through the generation of multiple genomes from diverse lines within a species. Pangenomic analyses have revealed that in some species upwards of 50% of all genes are not found in all individuals and many GWAS lead SNPs in *Arabidopsis thaliana* have recently been shown to be reflective of structural variation not captured by the reference genome.
@@ -44,7 +44,7 @@ Polyploidy plays a major role in the evolution of novel traits. By producing raw
 <div class="left_figure"><figure>
         <img src="/img/Fig2.png" alt="Subgenome Dominance" style="float: left" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="2">Cartoon of Subgenome dominance, Bird et al. 2018 New Phytologist </font>
+			<font size="1.5">Cartoon of Subgenome dominance, Bird et al. 2018 New Phytologist </font>
 		</figcaption>
 </figure></div>
 
@@ -60,7 +60,7 @@ ___
 <div class="right_figure"><figure>
 	<img src="/img/tpc.20.00740-feature.jpg" alt="Genomic Imbalance" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="2"><i>Genomic imbalance Source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
+			<font size="1.5"><i>Genomic imbalance Source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
 		</figcaption>
 </figure></div>
 
