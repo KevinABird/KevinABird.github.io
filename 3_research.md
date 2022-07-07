@@ -8,9 +8,9 @@ header-img: "img/Banner4.JPG"
 
 <div class="left_figure"><figure>
 	<img src="/img/Network.png" alt="Reciprocal Network" style="float: left" width="400" hspace="25" vspace="25" />
-	<figcaption>
-		<font size="1.5"><i>The reciprocal interaction of genetic variation and network topology in trait evolution</i></font>
-	</figcaption>
+		<figcaption>
+			<font size="1.5"><i>The reciprocal interaction of genetic variation and network topology in trait evolution</i></font>
+		</figcaption>
 </figure></div>
 
 For living things to survive they must appropriately respond to changes in the environment or from genetic mutations. This is especially true for plants, where physically moving away from environmental stresses is not always possible. Being able to maintain vital functions in the face of mutations or environmental change is called robustness. Organisms must also be able to adapt to changing environments through natural selection and to do this mutations need to produce a heritable change in phenotype. How organisms can be both robust to mutations and able to adaptively evolve to new environments has been difficult to answer. 
@@ -24,10 +24,10 @@ ___
 
 
 <div class="right_figure"><figure>
-	<img src="/img/img_pangenome-1.svg" alt="pangenome" style="float: right" width="400" hspace="25" vspace="50" />
-	<figcaption>
-		<font size="1.5"><i>Pangenome representation of gene content variation source: https://www.pacb.com/blog/sequencing-101-looking-beyond-the-single-reference-genome-to-a-pangenome-for-every-species/</i></font>
-	</figcaption>
+	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="50" />
+		<figcaption>
+			<font size="2"><i>Pangenome representation of gene content variation Source: https://www.pacb.com/blog/sequencing-101-looking-beyond-the-single-reference-genome-to-a-pangenome-for-every-species/</i></font>
+		</figcaption>
 </figure></div>
 It's now recognized that a single reference genome is not sufficient to capture all the genomic diversity within a species. A pangenome provides a better picture of structural and gene content variation that a species harbors through the generation of multiple genomes from diverse lines within a species. Pangenomic analyses have revealed that in some species upwards of 50% of all genes are not found in all individuals and many GWAS lead SNPs in *Arabidopsis thaliana* have recently been shown to be reflective of structural variation not captured by the reference genome.
 
@@ -43,9 +43,9 @@ Polyploidy plays a major role in the evolution of novel traits. By producing raw
 
 <div class="left_figure"><figure>
         <img src="/img/Fig2.png" alt="Subgenome Dominance" style="float: left" width="400" hspace="25" vspace="25" />
-        <figcaption>
-                <font size="1.5">Cartoon of Subgenome dominance, Bird et al. 2018 New Phytologist </font>
-        </figcaption>
+		<figcaption>
+			<font size="2">Cartoon of Subgenome dominance, Bird et al. 2018 New Phytologist </font>
+		</figcaption>
 </figure></div>
 
 When an organism doubles its genome it experiences a ‘genomic shock’ as it quickly tries to get back to a happy, stable genomic state. Ultimately this process leads to the polyploid organism ‘diploidizing’ and returning to what appears to be a diploid state. In reality this ‘diploid’ state can have vastly different genomic architecture due to fractionation (gene loss) of the different subgenomes. In some species, instead of having subgenomes fractionated at similar rates, one subgenome tends to have more genes lost than the other, a phenomenon called subgenome dominance.
@@ -58,10 +58,10 @@ ___
 #### Gene Dosage Balance
 
 <div class="right_figure"><figure>
-	<img src="/img/tpc.20.00740-feature.jpg" alt="pangenome" style="float: right" width="400" hspace="25" vspace="25" />
-	<figcaption>
-		<font size="1.5"><i>Genomic imbalance source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
-	</figcaption>
+	<img src="/img/tpc.20.00740-feature.jpg" alt="Genomic Imbalance" style="float: right" width="400" hspace="25" vspace="25" />
+		<figcaption>
+			<font size="2"><i>Genomic imbalance Source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
+		</figcaption>
 </figure></div>
 
 
