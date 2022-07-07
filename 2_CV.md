@@ -41,7 +41,7 @@ __Kevin Bird__ (2022) Gene dosage constraints affect the transcriptional respons
 
 __Kevin Bird__ (2022) Anti-racist genomics: responding to scientific racism in the 21st century. Invited presentation for symposium *Disrupting Genomics: Bringing Critical and Theoretical Approaches into Practice*, American Association of Biological Anthropologists 2022 annual meeting, Denver, CO
 
-__Kevin Bird__ (2022) he Mismeasure of genes: genetics and scientific racism in the 21st. Harvard FXB Center for Health & Human Rights seminar. Harvard University, Cambridge, MA
+__Kevin Bird__ (2022) The mismeasure of genes: genetics and scientific racism in the 21st. Harvard FXB Center for Health & Human Rights seminar. Harvard University, Cambridge, MA
 
 __Kevin Bird__ (2022) Evolutionary impacts of genomic structural variation. Center for Population Biology seminar series, University of California Davis, Davis CA
  
