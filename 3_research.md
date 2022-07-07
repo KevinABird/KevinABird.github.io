@@ -33,6 +33,7 @@ It's now recognized that a single reference genome is not sufficient to capture 
 
 I'm interested in using constructing and analyzing pangenomes to characterize structural, gene content, transposable element, and regulatory sequence variation to better understand the evolutionary forces shaping genomes and the role that complex genomic variation plays in ecological divergence and adaptive evolution. These results will aid in the dissection of agriculturally relevant traits to improve crop plants, and open doors for interrogating patterns of among- and within-species genomic variation to gain more insight into genome evolution.
 
+
 ___
 
 ### Polyploid Genome Evolution and Evolutionary Constraints
@@ -53,6 +54,8 @@ When an organism doubles its genome it experiences a ‘genomic shock’ as it q
 In early stages after whole-genome duplication, genes from one progenitor genome (subgenome) have, on average, higher gene expression (subgenome expression dominance) and/or lower levels of certain epigenetic regulation. Over long evolutionary time, duplicate genes from the dominant subgenome are lost at a much lower rate than other subgenomes, producing a bias in gene content. My work used combinations of genomic, transcriptomic, and epigenomic data to test for the presence of subgenome dominance in polyploid species and to see the extent to which subgenome dominance is related to the pre-existing differences between the parental genomes.
 
 Future directions for this work include investigating subgenome dominance and spatial and temporal partitioning in gene coexpression networks and the evolutionary consequences of subgenome dominance.
+
+
 ___
 
 #### Gene Dosage Balance
