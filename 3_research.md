@@ -60,7 +60,7 @@ ___
 <div class="right_figure"><figure>
 	<img src="/img/tpc.20.00740-feature.jpg" alt="Genomic Imbalance" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i>Genomic imbalance Source:https://plantae.org/genomes-losing-balance-what-is-the-consequence/</i></font>
+			<font size="1.5"><i>Genomic imbalance Source:Plantae </i></font>
 		</figcaption>
 </figure></div>
 
