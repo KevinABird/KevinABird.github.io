@@ -10,8 +10,9 @@ ___
 
 ### Education  
 
-Ph.D., Horticulture and Ecology, Evolutionary, and Behavior, Michigan State University (2022)  
+Ph.D., Horticulture and Ecology, Evolution, and Behavior, Michigan State University (2022)  
 Advisors: [Patrick Edger](https://www.polyploidy.msu.edu) & [Robert VanBuren](https://www.vanburenlab.org/) 
+
 Dissertation: Subgenome Dominance and Genome Evolution in Allopolyploids
 
 B.S., Biological Sciences (*Cum laude* with University honors), University of Missouri    (2016)  
