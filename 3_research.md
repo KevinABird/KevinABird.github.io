@@ -24,7 +24,7 @@ ___
 
 
 <div class="right_figure"><figure>
-	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="75" />
+	<img src="/img/img_pangenome-1.svg" alt="Pangenome" style="float: right" width="400" hspace="25" vspace="150" />
 		<figcaption>
 			<font size="1.5"><i>Pangenome representation of gene content variation Source: https://www.pacb.com/blog/sequencing-101-looking-beyond-the-single-reference-genome-to-a-pangenome-for-every-species/</i></font>
 		</figcaption>
