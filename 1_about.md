@@ -9,7 +9,7 @@ header-img: "img/Banner2-2.jpg"
 </div>
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<a href="http://kevinabird.github.io/img/0MNpaewh.jpg"><img src="/img/AboutMe2.jpg" width="450" alt="Kevin Bird" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+	<a href="http://kevinabird.github.io/img/0MNpaewh.jpg"><img src="/img/0MNpaewh.jpg" width="450" alt="Kevin Bird" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 
 
