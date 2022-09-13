@@ -4,7 +4,7 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-Yim, W C, Swain ML, Ma D, An H, **Bird KA**, Curdie DD, ... & Zhang X.(2022). [The final piece of the Triangle of U: Evolution of the tetraploid Brassica carinata genome](https://doi.org/10.1093/plcell/koac249). The Plant Cell. Early Online 
+Yim, WC, Swain ML, Ma D, An H, **Bird KA**, Curdie DD, ... & Zhang X.(2022). [The final piece of the Triangle of U: Evolution of the tetraploid Brassica carinata genome](https://doi.org/10.1093/plcell/koac249). The Plant Cell. Early Online 
 
 Fuentes A & **Bird KA** (2021) Heritability is a poor, if not unhelpful, measure of complex human behavioral processes.
 *Behavioral and Brain Sciences*.  Accepted 
