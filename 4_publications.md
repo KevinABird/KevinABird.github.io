@@ -4,7 +4,13 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-Yim, WC, Swain ML, Ma D, An H, **Bird KA**, Curdie DD, ... & Zhang X.(2022). [The final piece of the Triangle of U: Evolution of the tetraploid Brassica carinata genome](https://doi.org/10.1093/plcell/koac249). *The Plant Cell*. Early Online 
+**Bird KA**, Pires JC, VanBuren R, Xiong Z, & Edger PP. (2022).[Gene balance in allopolyploids: Homoeologous exchanges show signs of dosage constraint and dosage constraint of biased homoeologs differs between subgenomes](https://www.biorxiv.org/content/10.1101/2021.11.16.468838v3.abstract). BioRxiv. 
+
+De Meyer S, Cruz DF, De Swaef T, Lootens P, De Block J, **Bird KA**, ... & Maere S. (2022). [Predicting yield traits of individual field-grown Brassica napus plants from rosette-stage leaf gene expression](https://www.biorxiv.org/content/10.1101/2022.10.21.513275v1.abstract). BioRxiv.
+
+**Bird KA**, MacKenzie Jacobs M*,,Sebolt A, Rhoades K, Alger EI, Colle M, Alekman ML, Bies PK,  Cario AJ, Chigurupat RS, Collazo DR, Finley S, Garland B, Hein KM, Hicks J, Hillenberg AR, Kado LI, Kilian VR, Longueuil PF, Mahesha V, Mervak C, Munsell K,Patel RM, Peters NML, Steffes MO, Suryadevara S, Thummalapally A, Urban G, Walia AK, Wirsing TB, McKain MR, Iezzoni AF, Edger PP. (2022) [Parental origins of the cultivated tetraploid sour cherry (Prunus cerasus L.)](https://doi.org/10.1002/ppp3.10267). Plants, People, Planet, 4( 5), 444– 450 
+
+Yim, WC, Swain ML, Ma D, An H, **Bird KA**, Curdie DD, ... & Zhang X.(2022). [The final piece of the Triangle of U: Evolution of the tetraploid Brassica carinata genome](https://doi.org/10.1093/plcell/koac249). *The Plant Cell*.
 
 Fuentes A & **Bird KA** (2022) [Heritability is a poor, if not unhelpful, measure of complex human behavioral processes](https://doi.org/10.1017/S0140525X21001564).
 *Behavioral and Brain Sciences*. 45, E162. 
