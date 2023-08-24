@@ -4,11 +4,11 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-Xu MRX, Liao ZY, Brock JR, Kang D, Li GY, Chen ZQ, Wang YH, Gao ZN, Agarwal G, Wei KHC, Shao F, Pang S, Platts AE, van de Velde J, Lin HM, Teresi SJ, **Bird KA**, Niederhuth CE, Xu JG, Yu GH , Yang JY, Dai SF, Nelson A, Braasch I, Zhang XG, Schartl M, Edger PP, Han MJ, Zhang HH. (Accepted) Maternal dominance contributes to subgenome differentiation in allopolyploid fishes. *Nature Communications*
+Xu MRX\*, Liao ZY\*, Brock JR\*, Kang D\*, Li GY, Chen ZQ, Wang YH, Gao ZN, Agarwal G, Wei KHC, Shao F, Pang S, Platts AE, van de Velde J, Lin HM, Teresi SJ, **Bird KA**, Niederhuth CE, Xu JG, Yu GH , Yang JY, Dai SF, Nelson A, Braasch I, Zhang XG, Schartl M, Edger PP, Han MJ, Zhang HH. (Accepted) Maternal dominance contributes to subgenome differentiation in allopolyploid fishes. *Nature Communications*
 
-**Bird KA**, Jackson JP, Winston AS. (In Press). Confronting Scientific Racism in Psychology: Lessons from Evolutionary Biology and Genetics. *American Psychologist* Special Issue: Dismantling racism in the field of psychology and beyond
+**Bird KA**\*, Jackson JP\*, Winston AS\*. (In Press). Confronting Scientific Racism in Psychology: Lessons from Evolutionary Biology and Genetics. *American Psychologist* Special Issue: Dismantling racism in the field of psychology and beyond
 
-**Bird KA** What's DNA got to say about who you are? Review of: Ancestry reimagined: Dismantling the myth of genetic ethnicities. 2023. By Kostas Kampourakis (Ed.), New York, NY: Oxford University Press. 248pp. 29.99/ 40.00 (ebook/hbk). ISBN: 9780197656341. *American Journal of Biological Anthropology*.
+**Bird KA** (2023) [What's DNA got to say about who you are? Review of: Ancestry reimagined: Dismantling the myth of genetic ethnicities. 2023. By Kostas Kampourakis (Ed.), New York, NY: Oxford University Press. 248pp. 29.99/ 40.00 (ebook/hbk). ISBN: 9780197656341](https://doi.org/10.1002/ajpa.24813). *American Journal of Biological Anthropology*.
 
 **Bird KA**, Pires JC, VanBuren R, Xiong Z, & Edger PP. (2023).[Dosage-sensitivity shapes how genes transcriptionally respond to allopolyploidy and homoeologous exchange in resynthesized Brassica napus. ](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad114/7203653) *GENETICS*, p.iyad114. 
 
@@ -21,7 +21,7 @@ Yim, WC, Swain ML, Ma D, An H, **Bird KA**, Curdie DD, ... & Zhang X.(2022). [Th
 Fuentes A & **Bird KA** (2022) [Heritability is a poor, if not unhelpful, measure of complex human behavioral processes](https://doi.org/10.1017/S0140525X21001564).
 *Behavioral and Brain Sciences*. 45, E162. 
 
-**Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere. *American Journal of Botany*. Accepted. (Biorxiv https://doi.org/10.1101/2021.03.08.434492)
+**Bird KA**, Hardigan MA, Ragsdale AP, Knapp SJ, VanBuren R, & Edger PP (2021). [Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere](https://doi.org/10.1002/ajb2.1776). *American Journal of Botany*. 
 
 Hardigan MA, Lorant A, Pincot DD, Feldmann MJ, Famula RA, Acharya CB, Lee S, Verma S, Whitaker VM, Bassil N, Zurn J, Cole GS, **Bird KA**, Edger PP, & Knapp SJ (2021). [Unraveling the complex hybrid ancestry and domestication history of cultivated strawberry.](https://doi.org/10.1093/molbev/msab024) *Molecular Biology and Evolution*, 38(6), 2285-2305.
 
