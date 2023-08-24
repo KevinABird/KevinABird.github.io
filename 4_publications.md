@@ -8,11 +8,11 @@ Xu MRX, Liao ZY, Brock JR, Kang D, Li GY, Chen ZQ, Wang YH, Gao ZN, Agarwal G, W
 
 **Bird KA**, Jackson JP, Winston AS. (In Press). Confronting Scientific Racism in Psychology: Lessons from Evolutionary Biology and Genetics. *American Psychologist* Special Issue: Dismantling racism in the field of psychology and beyond
 
-**Bird KA** What's DNA got to say about who you are? Review of: Ancestry reimagined: Dismantling the myth of genetic ethnicities. 2023. By Kostas Kampourakis (Ed.), New York, NY: Oxford University Press. 248pp. 29.99/ 40.00 (ebook/hbk). ISBN: 9780197656341. American Journal of Biological Anthropology.
+**Bird KA** What's DNA got to say about who you are? Review of: Ancestry reimagined: Dismantling the myth of genetic ethnicities. 2023. By Kostas Kampourakis (Ed.), New York, NY: Oxford University Press. 248pp. 29.99/ 40.00 (ebook/hbk). ISBN: 9780197656341. *American Journal of Biological Anthropology*.
 
-**Bird KA**, Pires JC, VanBuren R, Xiong Z, & Edger PP. (2023).[Dosage-sensitivity shapes how genes transcriptionally respond to allopolyploidy and homoeologous exchange in resynthesized Brassica napus. ](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad114/7203653) GENETICS, p.iyad114. 
+**Bird KA**, Pires JC, VanBuren R, Xiong Z, & Edger PP. (2023).[Dosage-sensitivity shapes how genes transcriptionally respond to allopolyploidy and homoeologous exchange in resynthesized Brassica napus. ](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyad114/7203653) *GENETICS*, p.iyad114. 
 
-De Meyer S, Cruz DF, De Swaef T, Lootens P, De Block J, **Bird KA**, ... & Maere S. (2023). [Predicting yield of individual field-grown rapeseed plants from rosette-stage leaf gene expression](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011161). PLOS Computational Biology, 19(5), e1011161.
+De Meyer S, Cruz DF, De Swaef T, Lootens P, De Block J, **Bird KA**, ... & Maere S. (2023). [Predicting yield of individual field-grown rapeseed plants from rosette-stage leaf gene expression](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011161). *PLOS Computational Biology*, 19(5), e1011161.
 
 **Bird KA**, MacKenzie Jacobs M*,,Sebolt A, Rhoades K, Alger EI, Colle M, Alekman ML, Bies PK,  Cario AJ, Chigurupat RS, Collazo DR, Finley S, Garland B, Hein KM, Hicks J, Hillenberg AR, Kado LI, Kilian VR, Longueuil PF, Mahesha V, Mervak C, Munsell K,Patel RM, Peters NML, Steffes MO, Suryadevara S, Thummalapally A, Urban G, Walia AK, Wirsing TB, McKain MR, Iezzoni AF, Edger PP. (2022) [Parental origins of the cultivated tetraploid sour cherry (Prunus cerasus L.)](https://doi.org/10.1002/ppp3.10267). Plants, People, Planet, 4( 5), 444– 450 
 
