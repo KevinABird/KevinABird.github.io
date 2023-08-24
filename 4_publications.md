@@ -4,7 +4,7 @@ title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
 
-Xu MRX, Liao ZY, Brock JR, Kang D, Li GY, Chen ZQ, Wang YH, Gao ZN, Agarwal G, Wei KHC, Shao F, Pang S, Platts AE, van de Velde J, Lin HM, Teresi SJ, **Bird KA**, Niederhuth CE, Xu JG, Yu GH , Yang JY, Dai SF, Nelson A, Braasch I, Zhang XG, Schartl M, Edger PP*, Han MJ, Zhang HH. (Accepted) Maternal dominance contributes to subgenome differentiation in allopolyploid fishes. *Nature Communications*
+Xu MRX, Liao ZY, Brock JR, Kang D, Li GY, Chen ZQ, Wang YH, Gao ZN, Agarwal G, Wei KHC, Shao F, Pang S, Platts AE, van de Velde J, Lin HM, Teresi SJ, **Bird KA**, Niederhuth CE, Xu JG, Yu GH , Yang JY, Dai SF, Nelson A, Braasch I, Zhang XG, Schartl M, Edger PP, Han MJ, Zhang HH. (Accepted) Maternal dominance contributes to subgenome differentiation in allopolyploid fishes. *Nature Communications*
 
 **Bird KA**, Jackson JP, Winston AS. (In Press). Confronting Scientific Racism in Psychology: Lessons from Evolutionary Biology and Genetics. *American Psychologist* Special Issue: Dismantling racism in the field of psychology and beyond
 
