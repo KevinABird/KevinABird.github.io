@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_Jan_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_Sept_2023_website.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
@@ -36,6 +36,9 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 
 ### Oral Presentations
+
+
+__Kevin Bird__ (2023) Expression response to homoeologous exchange show signs of dosage constraint and dosage constraint of biased homoeologs differs between subgenomes. 30th Plant and Animal Genomes Conference
 
 __Kevin Bird__ (2022) Gene dosage constraints affect the transcriptional response to allopolyploidy and homoeologous exchange in resynthesized Brassica napus. Plant Genomes Online 2022
 
