@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_8942 copy.jpg"
 ---
 
-My full CV can be found here <a href="/CV/Bird_CV_Sept_2023_website.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
+My full CV can be found here <a href="/CV/Bird_CV_Oct_2024_website.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.  
 
 ___
 
@@ -37,6 +37,13 @@ B.A., Philosophy (*Cum laude* with University honors), University of Missouri
 
 ### Oral Presentations
 
+__Kevin Bird__ (2024) Integrating genomics and networks to reveal function and evolution of plant genomes, University of Nebraska-Lincoln, Lincoln, NE
+
+__Kevin Bird__ (2024) Harnessing evolutionary genomics for crop improvement. Colorado State University, Fort Collins, CO
+
+__Kevin Bird__ (2024) Pangenomic analyses reveal structural and gene-content variation in the allohexaploid biofuel crop Camelina sativa. 31st Plant and Animal Genomes Conference
+
+__Kevin Bird__ (2024) Misinterpretations of admixture regression in the study of group differences. Invited presentation for symposium *Undermining the production of race science*, American Association of Biological Anthropologists 2024 annual meeting, Los Angeles, CA
 
 __Kevin Bird__ (2023) Expression response to homoeologous exchange show signs of dosage constraint and dosage constraint of biased homoeologs differs between subgenomes. 30th Plant and Animal Genomes Conference
 
