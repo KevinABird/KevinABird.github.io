@@ -77,7 +77,7 @@ I'm interested in extending this work to see how gene dosage relates to cases of
 
 ___
 
-### Anti-racist Genomics
+### "Humane" Genomics
 Genetics and evolutionary biology have a uniquely dark history due to their central role in justifying eugenics, colonialism, and racism. Moreover, misunderstandings about human genetics and evolution result in genetic essentialism, the belief that a “race” is a genetically homogenous grouping of people, and that races primarily differ physically, cognitively, and behaviorally because of genetic differences. In turn, genetic essentialism is associated with opposition to policies that promote racial equality. 
 
 Recent advances in genomics, like Genome-Wide Association Studies and polygenic scores, and the widespread availability of public databases have fueled a resurgence in scientific racism. Additionally, some mainstream research perpetuates overly simplistic and deterministic ideas about genetics that further facilitate racist misuse. As subject matter experts, there is an obligation for researchers trained in these fields to understand this history, how this history affects contemporary ideas and debates, and how to move the field and public understanding forward.
