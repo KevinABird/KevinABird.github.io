@@ -42,20 +42,20 @@ There are some other problematic and unjustified decisions made by Fuerst, one o
 Fuerst in a footnote implies my equation 4 is incorrect without any elaboration. Despite formatting and rendering issues in his derivation, I can clarify the difference between our two methods and why my approach ought to be preferred. Up until my equation 3 and Fuerst's equation 11 our approaches are broadly equivalent and yield similar values with minor differences due to some decisions made by Fuerst in calculating his other parameters. These equations provide an additive among-group genetic variance, which can be compared to the among-group phenotypic variance to produce what would be equivalent to a "between-group heritability". It is possible to move from this among-group genetic variance to an expected group phenotypic difference and this is where my and Fuerst's methods differ. My goal was to estimate an expected difference, taking into account random effects from genetic drift as quantified by F<sub>st</sub>. This randomness is incorporated by assuming a normal distribution, a safe assumption under neutral evolution<sup>10</sup>, and directly accounting for bias in the estimation of the expected group difference from the among-group variance that is introduced due to Jensen's inequality<sup>11</sup>. Fuerst on the other hand, is not concerned with accounting for this bias and so produces an overestimate by simply multiplying the squareroot of between group heritability by the standard deviation. 
 
 That these two approaches are essentially identical can be demonstrated in a simple manner. Using my F<sub>st</sub> value of 0.111 and a heritability of 0.35, Fuerst gets an estimated genetic contribution to the IQ gap of 8.85 (Table 1). If that value is multiplied by 
-$\sqrt{\frac{2}{\pi}}$ 
+$`\sqrt{\frac{2}{\pi}}`$ 
 it equals 7.06. 
 
 Using the same heritability of 0.35 my equation 4. yields: 
 
 
-$2\sigma_B *\sqrt{\frac{2}{\pi}}$
+$`2\sigma_B *\sqrt{\frac{2}{\pi}}`$
 
 
 
-$2*4.435 *\sqrt{\frac{2}{\pi}}$
+$`2*4.435 *\sqrt{\frac{2}{\pi}}`$
 
 
-$7.077236$
+$`7.077236`$
 
 
 A nearly identical result. Because we are dealing with estimated values of among-group variance based on a model of random genetic drift it is reasonable, and preferable, to incorporate some of that randomness in the estimation of an expected value and not overestimate the group difference.
