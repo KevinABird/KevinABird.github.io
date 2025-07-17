@@ -3,11 +3,21 @@ layout: page
 title: "Publications"
 header-img: "img/Banner1-1.jpg"
 ---
-Monroe JG, Chaehee L, Quiroz D, Lensink M ,Oya S, Davis M, Long E, **Bird KA**, Pierce A, Zhao K, Runcie D. (2024) [Convergent evolution of epigenome recruited DNA repair across the tree of life.](https://doi.org/10.1101/2024.10.15.618488) *Biorxiv*  
 
-**Bird KA**, Brock JR, Grabowski PP, Harder AM, Shu S, Barry K, Boston L, Daum C, Guo J, Lipzen A, Walstead R, Grimwood J, Schmutz J, Lu C, Comai L, McKay JK, Pires JC, Edger PP, Lovell JT, Kliebenstein DJ, (In Revision) [Allopolyploidy expanded gene content but not pangenomic variation in the hexaploid oilseed Camelina sativa.](https://doi.org/10.1101/2024.08.13.607619) *Biorxiv*. 
+Ramos AA, **Bird KA**, Jain A, Phillip G, Okegbe O, Holland L, & Kliebenstein DJ. (2025). [Convergence and constraint in glucosinolate evolution across the Brassicaceae.](https://doi.org/10.1101/2025.04.23.650103) *bioRxiv*, 2025-04.
+
+**Bird KA**, Ramos AA, & Kliebenstein DJ (2025). [Phylogenetic and genomic mechanisms shaping glucosinolate innovation.](https://doi.org/10.1016/j.pbi.2025.102705) *Current Opinion in Plant Biology*, 85, 102705.
+
+Ricono A, Ludwig E, Casto AL, Zorich S, Sumner J, **Bird KA**, Edger PP, Mockler TC, Hegeman AD, Gehan MA and Greenham K (2025), [Homoeolog expression divergence contributes to time of day changes in transcriptomic and glucosinolate responses to prolonged water limitation in Brassica napus.](e70011. https://doi.org/10.1111/tpj.70011) *The Plant Journal*, 121: e70011. https://doi.org/10.1111/tpj.70011
+
+Monroe JG, Chaehee L, Quiroz D, Lensink M ,Oya S, Davis M, Long E, **Bird KA**, Pierce A, Zhao K, Runcie D. (2025) [Convergent evolution of epigenome recruited DNA repair across the tree of life.](https://doi.org/10.7554/eLife.105016.1
+) eLife14:RP105016 
+
+**Bird KA**, Brock JR, Grabowski PP, Harder AM, Shu S, Barry K, Boston L, Daum C, Guo J, Lipzen A, Walstead R, Grimwood J, Schmutz J, Lu C, Comai L, McKay JK, Pire*s JC, Edger PP, Lovell JT, Kliebenstein DJ, (2025) [Allopolyploidy expanded gene content but not pangenomic variation in the hexaploid oilseed Camelina sativa.](https://doi.org/10.1093/genetics/iyae183) Genetics* 
 
 Brock JR, **Bird KA**, Platts AE, Gomez-Cano F, Gupta SK, Palos K, Railey CE, Teresi SJ, Yun Lee S, Lundback MM, Pawlowski EG, Nelson ADL, Grotewold E, Edger PP. (2024) [Exploring genetic diversity, population structure, and subgenome differences in the allopolyploid Camelina sativa: Implications for future breeding and research studies.](https://doi.org/10.1093/hr/uhae247)  *Horticulture Research*. uhae247
+
+Palma-Martínez MJ, Posadas-García YS, López-Ángeles BE, Quiroz-López C, Lewis AC, **Bird KA**, Lasisi T, Zaidi A, & Sohail, M. (2024). [The multi-scale complexity of human genetic variation beyond continental groups.](https://doi.org/10.1101/2024.12.11.627824) *bioRxiv*.
 
 **Bird KA**, Jackson JP, Winston AS. (2024). [Confronting scientific racism in psychology: Lessons from evolutionary biology and genetics.](https://psycnet.apa.org/doi/10.1037/amp0001228) American Psychologist, 79(4), 497–508. (Part of Special Issue: Dismantling racism in the field of psychology and beyond)
 
