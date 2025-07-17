@@ -1,4 +1,8 @@
-# Not so Fst: Davide Piffer Can’t Read
+---
+layout: post
+title:  "Not so Fst: Davide Piffer Can’t Read"
+--- 
+
 
 The ignominious Davide Piffer recently wrote a [substack post](https://web.archive.org/web/20250714144859/https://pifferpilfer.substack.com/p/kevin-birds-fatal-flaw-and-why-fst) claiming to identify a fatal flaw in my [2021 paper](https://doi.org/10.1002/ajpa.24216) (freely accessible [here](https://r.jordan.im/download/racism/bird2021.pdf)). A careful assessment of his arguments compared to the actual contents of my paper reveals a misunderstanding so severe that I can only conclude that Piffer cannot read and interpret plain text and certainly doesn’t understand population or evolutionary genetics. If you think that assessment is harsh, please withhold judgment until the end of the post.
 
