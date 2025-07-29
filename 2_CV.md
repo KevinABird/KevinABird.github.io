@@ -43,7 +43,7 @@ __Kevin Bird__ (2024) Harnessing evolutionary genomics for crop improvement. Col
 
 __Kevin Bird__ (2024) Pangenomic analyses reveal structural and gene-content variation in the allohexaploid biofuel crop Camelina sativa. 31st Plant and Animal Genomes Conference
 
-__Kevin Bird__ (2024) [Misinterpretations of admixture regression in the study of group differences](https://github.com/KevinABird/KevinABird.github.io/blob/master/CV/Bird_AABA2024.pdf). Invited presentation for symposium *Undermining the production of race science*, American Association of Biological Anthropologists 2024 annual meeting, Los Angeles, CA
+__Kevin Bird__ (2024) Misinterpretations of admixture regression in the study of group differences <a href="/CV/Bird_AABA2024.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. Invited presentation for symposium *Undermining the production of race science*, American Association of Biological Anthropologists 2024 annual meeting, Los Angeles, CA
 
 __Kevin Bird__ (2023) Expression response to homoeologous exchange show signs of dosage constraint and dosage constraint of biased homoeologs differs between subgenomes. 30th Plant and Animal Genomes Conference
 
