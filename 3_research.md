@@ -33,9 +33,9 @@ ___
 
 
 <div class="right_figure"><figure>
-	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: right" width="400" hspace="25" vspace="25" />
+	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: center" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i> Network evolution following polyploidization. Collectively, genome duplication, gene gain and loss, network rewiring contribute to new phenotypes and variation. From Edger et al. 2026, PNAS</i></font>
+			<font size="1.5"><i> Collectively, whole-genome duplication, gene gain and loss, and network rewiring contribute to new phenotypes and variation. From Edger et al. 2026, PNAS.</i></font>
 		</figcaption>
 </figure></div>
 
