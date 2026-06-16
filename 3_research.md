@@ -17,7 +17,7 @@ ___
 <div class="left_figure"><figure>
 	<img src="/img/nph71111-fig-0003-m.jpg" alt="Macrosynteny and genome structure across the Brassicaceae." style="float: left" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i>Macrosynteny and genome structure across the Brassicaceae. Figure from Bird & Rifkin et al., 2026 *New Phytologist*</i></font>
+			<font size="1.5"><i>Macrosynteny and genome structure across the Brassicaceae</i></font>
 		</figcaption>
 </figure></div>
 
@@ -29,7 +29,7 @@ Ferns rarely lose chromosomes after whole-genome duplication, yet such losses ar
 <div class="right_figure"><figure>
 	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i> Collectively, whole-genome duplication, gene gain and loss, and network rewiring contribute to new phenotypes and variation. Figure courtesy of Chris Pires. </i></font>
+			<font size="1.5"><i> Collectively, whole-genome duplication, gene gain and loss, and network rewiring contribute to new phenotypes and variation. </i></font>
 		</figcaption>
 </figure></div>
 
