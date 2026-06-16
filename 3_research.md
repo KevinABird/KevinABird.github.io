@@ -9,6 +9,7 @@ The spectacular diversity of life reflects a continual interplay between ecologi
 
 
 My research approaches this through three connected questions.
+
 ___
 
 ### Why do genomes restructure differently across lineages?
@@ -25,14 +26,16 @@ Ferns rarely lose chromosomes after whole-genome duplication, yet such losses ar
 
 ### How is variation in the genome organized?
 
-Genomes aren't loose collections of independent genes, they're coevolved systems of interacting parts, tuned by selection to work together within networks, pathways, and modules. My recent work is exploring how that organization actively shapes how genetic variation is distributed, structured, and buffered at the level of these coevolved units. In a pangenome of Arabidopsis thaliana, I'm finding that the dispensable genome is organized into coevolved functional modules, not a random catalog of optional genes that are varying independently across individuals. Recent work with resynthesized polyploids has found a parallel signature at the level of gene expression: functionally related genes are often maintained as duplicates by selection, and those retained duplicates continue to buffer one another's expression against genomic change. Both studies point to the same conclusion that coevolved functional modules in the genome structure which combinations of variants are accessible and buffer the system against perturbation. When genomes are restructured by duplication, gene loss, or rearrangements, it reshapes not just individual genes but the coordinated units that selection ultimately sees. When a whole module is reorganized at once, the consequences can produce something entirely new.
-
 <div class="right_figure"><figure>
-	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: center" width="400" hspace="25" vspace="25" />
+	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
 			<font size="1.5"><i> Collectively, whole-genome duplication, gene gain and loss, and network rewiring contribute to new phenotypes and variation. Figure courtesy of Chris Pires. </i></font>
 		</figcaption>
 </figure></div>
+
+Genomes aren't loose collections of independent genes, they're coevolved systems of interacting parts, tuned by selection to work together within networks, pathways, and modules. My recent work is exploring how that organization actively shapes how genetic variation is distributed, structured, and buffered at the level of these coevolved units. In a pangenome of Arabidopsis thaliana, I'm finding that the dispensable genome is organized into coevolved functional modules, not a random catalog of optional genes that are varying independently across individuals. Recent work with resynthesized polyploids has found a parallel signature at the level of gene expression: functionally related genes are often maintained as duplicates by selection, and those retained duplicates continue to buffer one another's expression against genomic change. Both studies point to the same conclusion that coevolved functional modules in the genome structure which combinations of variants are accessible and buffer the system against perturbation. When genomes are restructured by duplication, gene loss, or rearrangements, it reshapes not just individual genes but the coordinated units that selection ultimately sees. When a whole module is reorganized at once, the consequences can produce something entirely new.
+
+
 
 ### When does restructuring produce novelty?
 Ultimately, I want to know when system-level genomic change translates into new functions, new phenotypes, and new ecological possibilities. Metabolic pathways are an exceptionally clean model to study this, because their chemistry can be read almost directly from their genes. My work has focused on clarifying our understanding of the molecular changes that underlie metabolic innovation. In comparative work on the glucosinolate pathway, the compounds responsible for the pungent chemistry behind mustard, wasabi, and horseradish, across the Brassicales I found cases of novel chemotypes across species that arose not from gene-by-gene tinkering, but from rapid coordinated gain and loss of many genes across the pathway at once. In these cases, coevolved modules appear to reorganize as units and produce new chemistry in the process (Bird et al. 2025, *Genetics*; Agosto-Ramos et al. 2025 *The Plant Cell*). With the genomic resolution to interrogate these gene gain and loss events, I also argued that some metabolic innovations previously attributed to whole-genome duplication may instead reflect more rapid and complex cycles of gene gain and loss. (Bird et al. 2025 *Current Opinion in Plant Biology*).
