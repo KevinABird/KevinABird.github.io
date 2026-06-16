@@ -9,6 +9,7 @@ The spectacular diversity of life reflects a continual interplay between ecologi
 
 
 My research approaches this through three connected questions.
+___
 
 ### Why do genomes restructure differently across lineages?
 
@@ -22,15 +23,9 @@ My research approaches this through three connected questions.
 Ferns rarely lose chromosomes after whole-genome duplication, yet such losses are common in angiosperms. Gymnosperms almost never undergo whole-genome duplication at all, while angiosperms have done so again and again. And within the angiosperms, the rose family changes its chromosome number and structure far more slowly than the mustard family. Why genomic change differs so sharply across branches in the tree of life is still largely unresolved. My research seeks to understand what governs that difference, characterizing patterns of genomic variability and identifying the factors that promote or inhibit genome evolution. I've used resynthesized polyploids to show that inherited differences between parental genomes create expression imbalances in polyploid plants (Bird et al., 2021 *New Phytologist*), constructed species-level pangenomes to test whether whole-genome duplication elevates pangenomic variation (Bird et al. 2025 *Genetics*), and characterized how genome architecture itself shapes the magnitude and kind of genetic variation across the genome (Bird & Rifkin et al. 2026 *New Phytologist*). In my current work, I'm looking across land plants to understand how lineages return to a diploid state after whole-genome duplication, trying to disentangle how chromosome behavior and structure evolve and the functional consequences of that variation.
 
 
-
-___
-
 ### How is variation in the genome organized?
 
 Genomes aren't loose collections of independent genes, they're coevolved systems of interacting parts, tuned by selection to work together within networks, pathways, and modules. My recent work is exploring how that organization actively shapes how genetic variation is distributed, structured, and buffered at the level of these coevolved units. In a pangenome of Arabidopsis thaliana, I'm finding that the dispensable genome is organized into coevolved functional modules, not a random catalog of optional genes that are varying independently across individuals. Recent work with resynthesized polyploids has found a parallel signature at the level of gene expression: functionally related genes are often maintained as duplicates by selection, and those retained duplicates continue to buffer one another's expression against genomic change. Both studies point to the same conclusion that coevolved functional modules in the genome structure which combinations of variants are accessible and buffer the system against perturbation. When genomes are restructured by duplication, gene loss, or rearrangements, it reshapes not just individual genes but the coordinated units that selection ultimately sees. When a whole module is reorganized at once, the consequences can produce something entirely new.
-
-___
-
 
 <div class="right_figure"><figure>
 	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: center" width="400" hspace="25" vspace="25" />
