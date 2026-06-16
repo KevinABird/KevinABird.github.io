@@ -29,7 +29,7 @@ Ferns rarely lose chromosomes after whole-genome duplication, yet such losses ar
 <div class="right_figure"><figure>
 	<img src="/img/Picture1.png" alt="Network evolution after WGD" style="float: right" width="400" hspace="25" vspace="25" />
 		<figcaption>
-			<font size="1.5"><i> Collectively, whole-genome duplication, gene gain and loss, and network rewiring contribute to new phenotypes and variation. </i></font>
+			<font size="1.5"><i> Genome duplication, gene loss, and network rewiring contributing to novelty. </i></font>
 		</figcaption>
 </figure></div>
 
